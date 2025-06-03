@@ -1,5 +1,6 @@
 # SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
-
+## Name:Nishalini R
+## Reg No: 212224040222
 **AIM:**
 
 To implement  SISO Shift Register using verilog and validating their functionality using their functional tables
